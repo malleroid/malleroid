@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-I'm software engineer!
+I'm a Full-Stack / Platform Engineer based in Japan.
+
+## About Me
+
+- 🔭 Building web applications and cloud infrastructure
+- 🌱 Currently learning **AI/ML**, **Rust**, and **Go**
+- 💻 Backend: Rails, Hono, FastAPI, Laravel
+- 🎨 Frontend: React, Svelte, Astro, TypeScript
+- ☁️ Cloud: AWS
 
 <p align="left">
   <a href="http://qiita.com/malleroid">
