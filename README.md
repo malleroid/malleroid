@@ -6,7 +6,7 @@ I'm software engineer!
   <a href="http://qiita.com/malleroid">
     <img height="20" src="https://qiita-badge.apiapi.app/s/malleroid/posts.svg" />
   </a>
-  <//qiita.com/malleroid">
+  <a href="http://qiita.com/malleroid">
     <img height="20" src="https://qiita-badge.apiapi.app/s/malleroid/contributions.svg" />
   </a>
   <a href="https://github.com/malleroid/malleroid/">
