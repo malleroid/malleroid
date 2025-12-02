@@ -6,9 +6,15 @@ I'm a Full-Stack / Platform Engineer based in Japan.
 
 - 🔭 Building web applications and cloud infrastructure
 - 🌱 Currently learning **AI/ML**, **Rust**, and **Go**
-- 💻 Backend: Rails, Hono, FastAPI, Laravel
-- 🎨 Frontend: React, Svelte, Astro, TypeScript
-- ☁️ Cloud: AWS
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,svelte,astro" />
+  <img src="https://skillicons.dev/icons?i=rails,laravel,fastapi" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=hono" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws,rust,go" />
+</p>
 
 <p align="left">
   <a href="http://qiita.com/malleroid">
