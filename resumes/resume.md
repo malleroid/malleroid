@@ -1,6 +1,6 @@
 ---
 title: "職務経歴書"
-date: 2023-06-11T10:00:00+09:00
+date: 2026-03-30T10:00:00+09:00
 slug: "resume"
 ---
 
@@ -10,27 +10,37 @@ slug: "resume"
 
 - 氏名: 矢㟢 誠 (Makoto Yazaki)
 - Github: [`malleroid`](https://github.com/malleroid)
-- Twitter: [`malIeus`](https://twitter.com/malIeus)
+- X: [`malIeus`](https://x.com/malIeus)
 
 ## 職務経歴（概要）
 
 ### ソフトウェア開発
-- Webアプリケーションの開発: 4年
+- Webアプリケーションの開発: 6年
   - バックエンド
-    - Ruby on Rails: 2年
+    - Ruby on Rails: 5年
     - Python/FastAPI: 1年
+    - Hono: 1年
     - PHP/Laravel: 1年
+    <!-- Go, Rust の年数要確認 -->
   - フロントエンド
-    - React: 2年
-    - TypeScript: 2年
+    - React: 5年
+    - TypeScript: 5年
+    - Astro: 1年
+    - Svelte: 1年
     - Vue.js(2系): 1年
   - DB
-    - MySQL: 4年
-    - PostgresSQL: 1年
+    - MySQL: 6年
+    - PostgreSQL: 1年
+    - DynamoDB: 1年
+    - Firestore: 1年
+    - Redis: 1年
+    - Elasticsearch: 1年
   - インフラ
-    - Docker: 4年
-    - AWS: 2年
-      - IAM, S3, VPC, ECS, ECR, RDS, EC2, CodePipeline, CodeBuild, CloudWatch, EventBridge, Athena, Route53, ALB, WAF, SQS, Cognito, Lambda
+    - Docker: 6年
+    - AWS: 5年
+      - IAM, S3, VPC, ECS, ECR, RDS, EC2, CodePipeline, CodeBuild, CloudWatch, EventBridge, Athena, Route53, ALB, WAF, SQS, Cognito, Lambda, DynamoDB
+    - Terraform: 3年
+    - GitHub Actions: 3年
   - SRE
     - SLI/SLO設計: 1年
     - オブザーバビリティ: 1年
@@ -40,16 +50,16 @@ slug: "resume"
 - Nativeアプリケーションの開発: 1年
   - NativeScript: 1年
 
-<!-- - その他 -->
-
 ### 研究開発
 - 画像処理: 2年
   - 写真測量: 2年
-  - OvenCV: 2年
+  - OpenCV: 2年
+  - Three.js: 1年
   - VSLAM: 1年
 - 機械学習: 2年
-  - darknet: 1年
-  - YOLO: 1年
+  - PyTorch: 1年
+  - Transformer: 1年
+  - darknet/YOLO: 1年
   - 強化学習: 1年
 - 熱電素子研究: 1年
   - ワンチップマイコン: 1年
@@ -106,7 +116,7 @@ slug: "resume"
 [異能な僕らと異常な世界](https://ppg.paiza.jp/inou)
 [コードレビューBINGO!!](https://ppg.paiza.jp/code_review_bingo)
 
-- 技術: Ruby on Rails, React, TypeScript, Node.js, MySQL, Docker,  AWS, CircleCI, grafana, rollbar, Redash
+- 技術: Ruby on Rails, React, TypeScript, Node.js, MySQL, Docker, AWS, CircleCI, grafana, rollbar, Redash
 - 職位
   - リードエンジニア/フルサイクルエンジニア
     - データベース設計、フロントエンドからのリクエストに対応するAPIの設計・バックエンドロジックの実装
@@ -115,9 +125,9 @@ slug: "resume"
     - 監視・運用基盤の作成
     - 業務委託メンバー含むチームビルド・チームマネジメント
 
-### datagusto株式会社 ( 2022-06~ )
+### datagusto株式会社 ( 2022-06~2022-11 )
 
-#### プロダクト開発（2022-06~） ※業務委託
+#### プロダクト開発（2022-06~2022-11） ※業務委託
 - 技術: Python, FastAPI, React, TypeScript, Node.js, Postgres, Docker, AWS, Github Actions
 - 職位
   - バックエンドエンジニア/フロントエンドエンジニア
