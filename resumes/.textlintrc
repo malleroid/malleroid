@@ -1,0 +1,36 @@
+{
+  "rules": {
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 150,
+        "severity": "warning"
+      },
+      "max-comma": {
+        "max": 20
+      },
+      "max-ten": {
+        "max": 3
+      },
+      "no-mix-dearu-desumasu": {
+        "preferInBody": "ですます",
+        "preferInList": "である"
+      },
+      "no-exclamation-question-mark": false,
+      "max-kanji-continuous-len": false
+    },
+    "preset-jtf-style": {
+      "2.1.2.漢字": false,
+      "2.1.5.カタカナ": false,
+      "2.1.6.カタカナの長音": false,
+      "3.1.1.全角文字と半角文字の間": false,
+      "1.2.1.句点(。)と読点(、)": false
+    },
+    "preset-ja-spacing": {
+      "ja-space-between-half-and-full-width": {
+        "space": "always"
+      },
+      "ja-space-around-code": false
+    },
+    "no-mixed-zenkaku-and-hankaku-alphabet": true
+  }
+}

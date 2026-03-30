@@ -1,0 +1,7 @@
+services:
+  resume:
+    build: .
+    volumes:
+      - ./docs:/app/docs
+      - ./pdf-configs:/app/pdf-configs
+      - ./.textlintrc:/app/.textlintrc
