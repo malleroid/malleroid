@@ -5,3 +5,5 @@ services:
       - ./docs:/app/docs
       - ./pdf-configs:/app/pdf-configs
       - ./.textlintrc:/app/.textlintrc
+      - ./package.json:/app/package.json
+      - ./package-lock.json:/app/package-lock.json
