@@ -1,0 +1,26 @@
+name: Lint Resume
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "resumes/docs/**"
+      - "resumes/.textlintrc"
+  pull_request:
+    paths:
+      - "resumes/docs/**"
+      - "resumes/.textlintrc"
+
+jobs:
+  textlint:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: resumes
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version-file: resumes/package.json
+      - run: npm ci
+      - run: npm run lint
