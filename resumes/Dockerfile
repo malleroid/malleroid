@@ -1,4 +1,4 @@
-FROM node:26-slim@sha256:712b5d4c10e5262e60d8c027f7eb84065d3fa6a6e8fe9001d0d877bdb030b7f7
+FROM node:26-slim@sha256:94816674c62774da0d099a947bf4613b9e1972a2733abd0d0cd80e795f8411d0
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
     chromium \
